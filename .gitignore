@@ -22,3 +22,8 @@ tools/
 # Random OS stuff
 .DS_Store
 ._*
+
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
